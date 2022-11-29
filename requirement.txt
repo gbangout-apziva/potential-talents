@@ -3,4 +3,7 @@ clear
 pip install spacy
 clear
 python -m spacy download en
-
+clear
+python -m spacy download en_core_web_lg
+clear
+pip install -U sentence-tranformers
