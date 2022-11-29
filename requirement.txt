@@ -1,0 +1,6 @@
+pip install nltk
+clear
+pip install spacy
+clear
+python -m spacy download en
+
